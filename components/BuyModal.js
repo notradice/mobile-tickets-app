@@ -39,7 +39,7 @@ export const BuyModal = ({ visible, onCancel }) => {
           />
 
           <Text style={{ fontFamily: "Mont-Bold", fontSize: 25 }}>
-            Спасибо за покупку
+            Спасибо за покупку.
           </Text>
           <Text
             style={{
